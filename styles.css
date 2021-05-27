@@ -1,0 +1,19 @@
+        body {
+            background-color:rgba(255, 237, 236, 0.863);
+        }
+        
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            width: 7%;
+            border-color: grey;
+            border-width:5px;
+        }
+        h1,h2,h3 {
+            color: #ca5639;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        /* pseudo class */ 
+        a:hover {
+            color:blue;
+        }
